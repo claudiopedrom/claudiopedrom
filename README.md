@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, my name is Cláudio Mindouro 👋
+
+Nowadays I’m working as a Front-End Developer at [wild](https://wild.as/) in Vienna, Austria.
+
+Previously I worked at [Pixelmatters](https://www.pixelmatters.com/) as a Full-Stack Developer.
+
+I’m passionate about technology and design and have been able to work in both areas with clients such as `Honda`, `Rubrik`, `EDP`, `Porto.`, the `Portuguese Republic` and much more.
 
 <!--
 **claudiopedrom/claudiopedrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
