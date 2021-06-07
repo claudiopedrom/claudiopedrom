@@ -1,8 +1,8 @@
 ### Hi, my name is Cláudio Mindouro 👋
 
-After working in Portugal 🇵🇹 (Lisbon and Porto) and in Bordeaux 🇫🇷, I'm now exploring the beauties 🏔 of Austria 🇦🇹.
+After working in Portugal 🇵🇹 (Lisbon and Porto) and in Bordeaux 🇫🇷, I'm now exploring the beauties of Austria 🇦🇹.
 
-Nowadays I’m working as a Front-End Developer at [wild](https://wild.as/) in Vienna, Austria.
+Nowadays I’m working as a Front-End Developer at [WILD](https://wild.as/) in Vienna, Austria.
 
 Previously I worked at [Pixelmatters](https://www.pixelmatters.com/) as a Full-Stack Developer.
 
