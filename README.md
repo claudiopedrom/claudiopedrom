@@ -1,20 +1,12 @@
-### Hi, my name is Cláudio Mindouro 👋
+Experienced and versatile Front End Engineer with 7+ years of expertise in delivering innovative digital solutions.
 
-After working in Portugal 🇵🇹 (Lisbon and Porto) and in Bordeaux 🇫🇷, I'm now exploring the beauties of Austria 🇦🇹.
+Currently Senior Frontend Engineer at [wild](https://wild.as/) and Master in Software Engineering. 
+ 
+I have engaged in diverse projects across various industries in my professional journey and had the opportunity to work alongside product companies such as Google, Rubrik, and Formsite. 
+ 
+I possess product development, project management, team leadership, recruitment, and organizational communication expertise.
 
-Nowadays I’m working as a Front-End Developer at [WILD](https://wild.as/) in Vienna, Austria.
-
-Previously I worked at [Pixelmatters](https://www.pixelmatters.com/) as a Full-Stack Developer.
-
-I’m passionate about technology and design and have been able to work in both areas with clients such as `Honda`, `Rubrik`, `EDP`, `Porto.`, the `Portuguese Republic` and much more.
-
----
-
-Feel free to contact me:
-
-- [👨🏻‍💼 LinkedIn](https://www.linkedin.com/in/claudiomindouro/)
-- [🐥 Twitter](https://twitter.com/claudiomindouro)
-- [💻 Website](https://www.mindouro.com/)
+[mindouro.com](https://www.mindouro.com/) — [linkedin.com/in/claudiomindouro](https://www.linkedin.com/in/claudiomindouro/) — [github.com/claudiopedrom](https://github.com/claudiopedrom/)
 
 <!--
 **claudiopedrom/claudiopedrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
